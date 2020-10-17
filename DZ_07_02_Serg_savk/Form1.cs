@@ -27,6 +27,7 @@ namespace DZ_07_02_Serg_savk
             button2.Text = "Try";
             label2.Text = "0";
             label3.Text = "Количество попыток " + count;
+
         }
         
 
